@@ -2,7 +2,7 @@ name: Compilación automática
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master, push1 ]
 
 jobs:
   build:
