@@ -32,4 +32,3 @@ jobs:
       run: |
         python -c "import flask"
         python -c "import flask_session"
-
